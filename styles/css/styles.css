@@ -1,0 +1,22 @@
+body {
+   background-image: url("../../images/photo.jpeg"); */
+   background-size: 1500px;
+}
+
+h1{
+    font-size: 50px;
+    color:green;
+    text-align: center;
+}
+
+h2{
+    font-size: 40px;
+    color: darkblue;
+    text-decoration: blue;
+}
+p{
+    font-size: 35px;
+    color: rgb(60, 255, 0);
+    text-shadow:black;
+    
+}
