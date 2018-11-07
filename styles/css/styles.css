@@ -5,18 +5,20 @@ body {
 
 h1{
     font-size: 50px;
-    color:green;
+    color:rgb(124, 0, 0);
     text-align: center;
 }
 
 h2{
     font-size: 40px;
-    color: darkblue;
+    color: rgb(0, 0, 0);
     text-decoration: blue;
 }
 p{
     font-size: 35px;
-    color: rgb(60, 255, 0);
+    color: rgb(247, 19, 255);
     text-shadow:black;
+    text-indent: 150px;
     
 }
+
